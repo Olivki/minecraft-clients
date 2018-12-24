@@ -1,0 +1,13 @@
+package se.proxus.hacks;
+
+public enum Base_Options {
+	STEP_HEIGHT,
+	XRAY_OPACITY,
+	KILL_AURA_DISTANCE,
+	MOB_AURA_DISTANCE,
+	KILL_AURA_DELAY,
+	MOB_AURA_DELAY,
+	MINING_DELAY,
+	MINE_SPEED,
+	BOW_AIM_DISTANCE;
+}
